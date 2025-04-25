@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/net8.0-ios/iossimulator-arm64/unpack/NewRelic.MAUI.iOS.Binding/NewRelic.xcframework/.DS_Store">
+      <Optimize>false</Optimize>
+      <LogicalName>NewRelic.xcframework/.DS_Store</LogicalName>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

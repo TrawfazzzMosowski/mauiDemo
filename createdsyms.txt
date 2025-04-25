@@ -1,0 +1,1 @@
+dotnet publish MauiApp2.App.sln -f net9.0-ios -c Release -p:ArchiveOnBuild=true -p:RuntimeIdentifier=ios-arm64 -p:CodesignKey="mosowski@newrelic.com (GN86KLZR7M)" -p:CodesignProvision="NewRelicMauiDemo"
